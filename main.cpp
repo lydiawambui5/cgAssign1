@@ -47,9 +47,6 @@ void drawHouse(void)
     glVertex2i(350, 200);
     glVertex2i(350, 250);
 
-    glVertex2i(50, 250);
-    glVertex2i(350, 250);
-
     glEnd();
     //Semicircle roof
     glBegin(GL_LINES);
